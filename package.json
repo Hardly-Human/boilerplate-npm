@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "shaik rehan uddin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
